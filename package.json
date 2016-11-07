@@ -1,6 +1,6 @@
 {
   "name": "postcss-handy-imports",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "PostCSS plugin for ordering imports",
   "main": "index.js",
   "scripts": {
