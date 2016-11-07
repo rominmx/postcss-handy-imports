@@ -41,3 +41,12 @@
 	color: green;
 }
 ```
+
+## Installation
+```ssh
+$ npm install postcss-handy-imports
+```
+
+## Usage
+```javascript
+postcss([ require('postcss-handy-imports')(options) ])
