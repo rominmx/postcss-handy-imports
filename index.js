@@ -1,7 +1,7 @@
 var postcss = require('postcss');
 var uniq = require('lodash/uniq');
 
-module.exports = postcss.plugin('postcss-import-with', function(opts) {
+module.exports = postcss.plugin('postcss-handy-imports', function(opts) {
     return function(css, result) {
         var imports = [];
 
