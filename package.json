@@ -23,5 +23,13 @@
     "gulp-postcss": "^6.2.0",
     "lodash": "^4.16.6",
     "mocha": "^3.1.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rominmx/postcss-handy-imports.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rominmx/postcss-handy-imports/issues"
+  },
+  "homepage": "https://github.com/rominmx/postcss-handy-imports#readme"
 }
