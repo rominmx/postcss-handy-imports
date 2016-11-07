@@ -1,0 +1,15 @@
+@import 'util/variables';
+
+.header {
+	color: red;
+}
+
+@import 'layout/header', 
+		"layout/footer", 
+		«util/variables»;
+
+.footer {
+	color: green;
+}
+
+@import 'util/mixins' util/variables;
